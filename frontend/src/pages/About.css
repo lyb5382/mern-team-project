@@ -3,8 +3,8 @@
   width: 80%;         
   margin: 40px auto;        
   padding: 20px;
-  background: #fff8f0;    
-  border: 2px solid #ff6600;
+  background: whitesmoke;    
+  border: 2px solid #bbb7b4;
   border-radius: 12px;
   box-shadow: 4px 4px 12px rgba(0,0,0,0.1);
   font-family: 'Roboto', sans-serif;
@@ -36,7 +36,7 @@
 
 .category-box {
   padding: 12px;
-  border: 2px dashed #ff6600;
+  border: 2px dashed #a19c98;
   border-radius: 8px;
   background: #fff; 
   font-weight: bold;
@@ -71,10 +71,10 @@
 
 
 .button-group button[type="submit"] {
-  background: #ff6600;
+  background: #3333336f;
   color: #fff;
 }
 
 .button-group button[type="submit"]:hover {
-  background: #e05500;
+  background: #333333cb;
 }

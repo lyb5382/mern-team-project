@@ -11,6 +11,6 @@
 
 
 .bucket-btn:hover {
-  background: #c6c6c6;
+  background: #c6c6c6c0;
   transform: translateY(-2px);
 }
